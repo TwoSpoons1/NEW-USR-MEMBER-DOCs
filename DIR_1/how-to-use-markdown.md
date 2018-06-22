@@ -7,6 +7,7 @@
 
 - https://help.github.com/articles/github-flavored-markdown
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 
 ## Convert
 
